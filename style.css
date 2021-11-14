@@ -1,11 +1,9 @@
 .kalkulator{
     text-align :center;
     margin : 0 auto;
-    padding-top:20px;
-    padding-bottom:20px;
     border-radius: 25px;
     width:700px;
-    height: 700px;
+    height: 650px;
 }
 
 .kalkulator-layar{
@@ -60,4 +58,19 @@ button:hover {
 
 .operasi-hitung:hover, .equal-sign:hover{
     background-color:#f08080;
+}
+
+h1{
+    text-align: center;
+    font-size: 30pt;
+    color: #2952a3;
+    width:700;
+    margin: 12px;
+}
+
+p{
+    font-size:16pt;
+    color:crimson;
+    margin-top: 6px;
+    text-align:left;
 }
